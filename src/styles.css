@@ -364,7 +364,7 @@ quever.html CATEGORIA
 
 .queverContent{
     padding-bottom: 30px;    
-    padding-top: 50px; 
+    padding-top: 20px; 
 }
 
 .queverContent .container{
@@ -382,12 +382,13 @@ quever.html CATEGORIA
 
 }
 
-.queverContent article h1{
+.queverContent article h1 a{
     font-weight: 600;
     padding-bottom: 5px;
     color:#9dc345;
 
 }
+
 .queverContent article iframe{
     border: none;
     width: 100%;
@@ -399,7 +400,7 @@ quever.html CATEGORIA
     padding-bottom: 10px;
 }
 
-.queverContent article a {
+.queverContent article h1 a {
     text-decoration: none;
 }
 
@@ -429,3 +430,4 @@ detalleMAHE.html DETALLE
 .MAHEArticle p {
     margin: 0 0 1.0rem 0;
 }
+
